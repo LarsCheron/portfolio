@@ -125,7 +125,10 @@ nav span{
 }
 }
 
-
+.smol{
+  width: 80%;
+  max-width: 500px;
+}
 
 
 @media (max-width: 1253px) {
