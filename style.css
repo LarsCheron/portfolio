@@ -126,8 +126,11 @@ nav span{
 }
 
 .smol{
+  margin: auto;
+  text-align: center;
+  align-self: center;
   width: 80%;
-  max-width: 500px;
+  max-width: 700px;
 }
 
 
